@@ -6,8 +6,8 @@
 // @author       Jeni4
 // @match        https://www.linux.com/news/*
 // @grant        none
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/Jeni4/linux-com-news-read-more-link/raw/master/Linux.com%20News%20-%20Read%20More%20redirect.user.js
+// @downloadURL  https://github.com/Jeni4/linux-com-news-read-more-link/raw/master/Linux.com%20News%20-%20Read%20More%20redirect.user.js
 // @license
 
 // ==/UserScript==
